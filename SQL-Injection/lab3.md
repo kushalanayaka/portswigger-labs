@@ -64,9 +64,9 @@ Avoid exposing database errors and sensitive data
 **Figure 4: Database version information retrieved from Oracle v$version table**
 
 <br><br>
-
+<img width="1355" height="662" alt="LAB3_5" src="https://github.com/user-attachments/assets/32c2c337-efd8-4097-846a-bbf10d1a10d6" />
 <br><br>
 
-**Figure 4: Successful extraction of database type and version**
+**Figure 5: Successful extraction of database type and version**
 
 <br><br>
