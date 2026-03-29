@@ -1,2 +1,2 @@
 # portswigger-labs
-My journey solving PortSwigger Web Security Academy labs using burp suite and detailed writeups.
+My journey solving labs on PortSwigger Web Security Academy using Burp Suite, with detailed write-ups and screenshots.
