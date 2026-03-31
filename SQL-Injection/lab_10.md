@@ -1,4 +1,4 @@
-# 🔐 Lab 10: Retrieving Multiple Values in a Single Column
+# 🔐 Lab 10: Retrieving Multiple Values in a Single Column.
 
 ## 🧩 Objective
 To retrive multiples values(username and password) in a single column using a UNION based SQL injection attack.
