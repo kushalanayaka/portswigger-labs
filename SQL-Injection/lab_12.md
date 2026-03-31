@@ -79,32 +79,4 @@ Error-based Blind SQL Injection allows attackers to extract data by triggering d
 
 ---
 
-## 📸 Screenshots
-
-<img src="ADD_YOUR_IMAGE_LINK_1" />
-<br><br>
-**Figure 1: Normal application response without error**
-
-<br><br>
-
-<img src="ADD_YOUR_IMAGE_LINK_2" />
-<br><br>
-**Figure 2: TRUE condition payload with no error**
-
-<br><br>
-
-<img src="ADD_YOUR_IMAGE_LINK_3" />
-<br><br>
-**Figure 3: FALSE condition payload triggering database error**
-
-<br><br>
-
-<img src="ADD_YOUR_IMAGE_LINK_4" />
-<br><br>
-**Figure 4: Extracting password character using error-based condition**
-
-<br><br>
-
-<img src="ADD_YOUR_IMAGE_LINK_5" />
-<br><br>
-**Figure 5: Successful extraction of administrator password (Lab Solved)**
+traction of administrator password (Lab Solved)**
