@@ -1,4 +1,4 @@
-# 🔐 Lab 10: DOM XSS in document.write Sink Using location.search Inside a Select Element
+# 🔐 Lab 10: DOM XSS in document.write Sink Using location.search Inside a Select Element.
 
 ## 🧩 Objective
 To exploit a DOM-based XSS vulnerability where user input is written into a `<select>` element using `document.write`.
