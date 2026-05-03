@@ -148,14 +148,8 @@ XSS/
 ├── 20-canonical-link-tag/
 ├── 21-js-string-single-quote-backslash-escaped/
 ├── 22-js-string-angle-brackets-encoded-single-quote-escaped/
-├── 23-stored-onclick-all-escaped/
-├── 24-template-literal/
-├── 25-event-handlers-href-blocked/
-├── 26-javascript-url-characters-blocked/
-├── 27-angularjs-sandbox-escape-no-strings/
-├── 28-angularjs-sandbox-escape-csp/
-├── 29-csp-bypass-reflected/
-└── 30-csp-bypass-stored/
+└── 23-stored-onclick-all-escaped/
+
 ```
 
 ---
