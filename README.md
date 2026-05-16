@@ -1,4 +1,6 @@
 # 🔐 PortSwigger Web Security Academy — Lab Write-ups
+<img width="1360" height="353" alt="image" src="https://github.com/user-attachments/assets/b5db944c-8efa-4372-ac54-7c178ec3befd" />
+
 
 > **Kushal Nayaka** · Aspiring Penetration Tester & VAPT Analyst  
 > Solving hands-on web security labs using **Burp Suite** with documented methodology, payloads, and remediation notes.
