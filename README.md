@@ -5,7 +5,7 @@
 > **Kushal Nayaka** · Aspiring Penetration Tester & VAPT Analyst  
 > Solving hands-on web security labs using **Burp Suite** with documented methodology, payloads, and remediation notes.
 
-[![Labs Solved](https://img.shields.io/badge/Labs%20Solved-35%2B-brightgreen?style=flat-square)](https://github.com/kushalanayaka/portswigger-labs)
+[![Labs Solved](https://img.shields.io/badge/Labs%20Solved-37%2B-brightgreen?style=flat-square)](https://github.com/kushalanayaka/portswigger-labs)
 [![Platform](https://img.shields.io/badge/Platform-PortSwigger%20Web%20Security%20Academy-orange?style=flat-square)](https://portswigger.net/web-security)
 [![Tool](https://img.shields.io/badge/Tool-Burp%20Suite-red?style=flat-square)](https://portswigger.net/burp)
 [![OWASP](https://img.shields.io/badge/Standard-OWASP%20Top%2010-blue?style=flat-square)](https://owasp.org/www-project-top-ten/)
