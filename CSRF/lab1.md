@@ -74,9 +74,9 @@ Applications must verify whether sensitive requests originate from legitimate us
 
 ## 📸 Screenshots
 
-<img src="ADD_YOUR_IMAGE_LINK_1" />
+<img width="1258" height="599" alt="image" src="https://github.com/user-attachments/assets/edc13775-fac2-42b0-b94d-b387e67f4e80" />
 
-**Figure 1: Legitimate email change request intercepted in Burp Suite**
+**Figure 1: Original User name and Email address**
 
 <br>
 
