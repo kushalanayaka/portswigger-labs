@@ -172,3 +172,6 @@ administrator'--
 - [PortSwigger SQL Injection Learning Path](https://portswigger.net/web-security/sql-injection)
 - [SQL Injection Cheat Sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
 - [OWASP SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
+
+<img width="1054" height="1492" alt="ChatGPT Image May 30, 2026, 11_33_55 PM" src="https://github.com/user-attachments/assets/de08c6c5-d3ff-41fb-8077-d94155588d71" />
+
