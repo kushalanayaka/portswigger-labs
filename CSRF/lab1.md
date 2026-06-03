@@ -80,9 +80,9 @@ Applications must verify whether sensitive requests originate from legitimate us
 
 <br>
 
-<img src="ADD_YOUR_IMAGE_LINK_2" />
+<img width="1363" height="700" alt="image" src="https://github.com/user-attachments/assets/a4a79b79-c386-4a6a-9394-40a8a3d0a682" />
 
-**Figure 2: Generated CSRF proof-of-concept exploit**
+**Figure 2: HTML code to trcik to victim user**
 
 <br>
 
