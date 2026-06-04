@@ -74,7 +74,7 @@ Applications must verify whether sensitive requests originate from legitimate us
 
 ## 📸 Screenshots
 
-<img width="1258" height="599" alt="image" src="https://github.com/user-attachments/assets/edc13775-fac2-42b0-b94d-b387e67f4e80" />
+<img width="1357" height="673" alt="image" src="https://github.com/user-attachments/assets/f5d2e559-8acc-452e-bd7c-d36377052b36" />
 
 **Figure 1: Original User name and Email address**
 
